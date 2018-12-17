@@ -13,15 +13,15 @@ Updated Portfolio page for week 9 homework
 
 <strong>Obective</strong>: build a professional portfolio site containing 3 pages (About, Contact and Portfolio) with specific page dimensions. <br>
 <strong>Used</strong>: HTML, CSS <br>
-[repo] <br>
-[website]()
+[repo] (https://github.com/finian71/Responsive-Portfolio.git) <br>
+[website](https://finian71.github.io/Responsive-Portfolio/)
 
 ## CSS_Framework_&_MediaQueries <a name="css-framework-mediaqueries"></a>
 Part 1: Bootstrap <br>
 <strong>Obective</strong>: build a professional portfolio site containing 3 pages (About, Contact and Portfolio) that is responsive using . <br>
 <strong>Used</strong>: HTML, CSS, bootstrap CDN <br>
-[repo]() <br>
-[website]()
+[repo](https://github.com/finian71/GifTastic.git) <br>
+[website](https://finian71.github.io/GifTastic/)
 
 Part 2: Media Queries <br>
 <strong>Obective</strong>: modify HTML_CSS_homework and make the website responsive using media queries. <br>
